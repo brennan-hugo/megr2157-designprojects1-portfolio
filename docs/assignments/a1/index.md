@@ -1,7 +1,7 @@
 # A1 – [Topic]
 
 ## Objective
-Testing if I can write and commit changes
+Re-Testing if I can write and commit changes, and the commits will upload.
 
 ## Analyze
 
