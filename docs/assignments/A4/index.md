@@ -7,7 +7,7 @@
 
 
 ## Decide
-
+/frac{1}{2}
 
 ## Communicate
 
